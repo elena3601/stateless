@@ -1,5 +1,7 @@
 # stateless_app
 
+# Objetivo de la practica
+
 El objetivo de la creación de esta app fue entender el funcionamiento de las apps sin estado, además de aprender hacer uso de diferentes componentes como buttons, cards, etc., además de que se analizó la estructura de la app como el appbar, el body, y se le dio diferentes de estilos al cambiar la fuente y los colores predeterminados.
 
 Otro objetivo por el cual se creó esta app fue para mostrar información del estudiante, como su nombre completo, fecha de nacimiento, una foto del mismo, y su género.
@@ -10,12 +12,27 @@ Y por último también se mostró el horario de la materia para la que realizo e
 
 - Visual Studio Code (v 1.68.1)
 - flutter (v 3.3.2)
+ 
+ # Resultados
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/77304407/194469710-2dd306f5-5b0d-4e6d-a6bf-7a7de2509bf7.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br/>
+![resultado](https://user-images.githubusercontent.com/77304407/194469908-d45c1594-45d4-415b-ba35-ba2ade06dd91.jpeg)
+<br/>
+<br/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Datos del estudiante
+Universidad Tecnológica de Xicotepec de Juarez
+Tecnologías de la Información
+Ingernieria Desarrollo y Gestión de Software
+
+#
+Desarrollo Movil Integral
+Docente: M.T. I Marco Antonio Ramírez Hernández
+Laura Elena Hernández Colina M-190149 
+
+
+
+
+
