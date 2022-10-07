@@ -17,22 +17,25 @@ Y por último también se mostró el horario de la materia para la que realizo e
 
 ![image](https://user-images.githubusercontent.com/77304407/194469710-2dd306f5-5b0d-4e6d-a6bf-7a7de2509bf7.png)
 <br/>
+<br/>
+<br/>
 ![resultado](https://user-images.githubusercontent.com/77304407/194471039-f7b2d66e-5581-40b2-abc1-f19098f63db0.jpeg)
 
 
 
 
-# Datos del estudiante
+# Datos de la Académicos
 Universidad Tecnológica de Xicotepec de Juarez
 <br/>
-Tecnologías de la Información
+Área académica: Tecnologías de la Información
 <br/>
-Ingernieria Desarrollo y Gestión de Software
+Carrera: Ingernieria Desarrollo y Gestión de Software
 <br/>
-Desarrollo Movil Integral
+Materia: Desarrollo Móvil Integral
 <br/>
 Docente: M.T. I Marco Antonio Ramírez Hernández
-#
+
+# Elaborador por: 
 Laura Elena Hernández Colina M-190149 
 
 
