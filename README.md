@@ -11,8 +11,9 @@ Y por último también se mostró el horario de la materia para la que realizo e
 ## Herramientas usadas
 
 - Visual Studio Code (v 1.68.1)
-- flutter (v 3.3.2)
- 
+- Flutter (v 3.3.2)
+- Google fonts
+
  # Resultados
 
 ![image](https://user-images.githubusercontent.com/77304407/194469710-2dd306f5-5b0d-4e6d-a6bf-7a7de2509bf7.png)
