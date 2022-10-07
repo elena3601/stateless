@@ -34,8 +34,10 @@ Carrera: Ingernieria Desarrollo y Gestión de Software
 Materia: Desarrollo Móvil Integral
 <br/>
 Docente: M.T. I Marco Antonio Ramírez Hernández
+<br/>
+Periodo: Septiembre - Diciembre
 
-# Elaborador por: 
+# Elaborado por: 
 Laura Elena Hernández Colina M-190149 
 
 
