@@ -16,9 +16,11 @@ Y por último también se mostró el horario de la materia para la que realizo e
  # Resultados
 
 ![image](https://user-images.githubusercontent.com/77304407/194469710-2dd306f5-5b0d-4e6d-a6bf-7a7de2509bf7.png)
+![resultado](https://user-images.githubusercontent.com/77304407/194471039-f7b2d66e-5581-40b2-abc1-f19098f63db0.jpeg)
+
 
 <br/>
-![resultado](https://user-images.githubusercontent.com/77304407/194469908-d45c1594-45d4-415b-ba35-ba2ade06dd91.jpeg)
+
 <br/>
 <br/>
 
