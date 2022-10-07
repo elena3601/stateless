@@ -14,6 +14,16 @@ Y por último también se mostró el horario de la materia para la que realizo e
 - Flutter (v 3.3.2)
 - Google fonts
 
+# Metodología
+- Se creo el proyecto *stateless_app en visual studio code.
+- Se creó una carpeta en la raíz, llamada assets, y en esta misma se metieron las imágenes a utilizar.
+- Se creó la carpeta fonts igual en la raíz y ahí se metieron todas las fuentes a usar en el proyecto.
+- Se cambio el fondo del appbar con una de las imágenes que se integró en la carpeta assets
+- Se cambio la fuente de las cards y del appbar haciendo uso de las nuevas fuentes agregadas.
+- Se modifico el código inicial y se crearon 3 cards en las cuales se metió la información solicitada por el docente.
+- Se crearon los botones con los cuales se llama a su determinada tarjeta.
+- Una vez terminada la app se probó su funcionamiento en un teléfono móvil, para esto se construyó el apk con el comando *flutter buil apk.
+
  # Resultados
 
 ![image](https://user-images.githubusercontent.com/77304407/194469710-2dd306f5-5b0d-4e6d-a6bf-7a7de2509bf7.png)
