@@ -28,10 +28,11 @@ Universidad Tecnológica de Xicotepec de Juarez
 Tecnologías de la Información
 <br/>
 Ingernieria Desarrollo y Gestión de Software
-
-#
+<br/>
 Desarrollo Movil Integral
+<br/>
 Docente: M.T. I Marco Antonio Ramírez Hernández
+#
 Laura Elena Hernández Colina M-190149 
 
 
