@@ -19,13 +19,11 @@ Y por último también se mostró el horario de la materia para la que realizo e
 ![resultado](https://user-images.githubusercontent.com/77304407/194471039-f7b2d66e-5581-40b2-abc1-f19098f63db0.jpeg)
 
 
-<br/>
 
-<br/>
-<br/>
 
 #Datos del estudiante
 Universidad Tecnológica de Xicotepec de Juarez
+<br/>
 Tecnologías de la Información
 Ingernieria Desarrollo y Gestión de Software
 
