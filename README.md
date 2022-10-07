@@ -51,6 +51,10 @@ Periodo: Septiembre - Diciembre
 # Elaborado por: 
 Laura Elena Hernández Colina M-190149 
 
+#
+![LOGO TIC](https://user-images.githubusercontent.com/77304407/194476270-7d5ae341-0c51-4832-b1d5-0eeb1e1e7730.jpg) ![LOGO TIC](https://user-images.githubusercontent.com/77304407/194476311-2179507c-9cec-4c9c-965c-c44a0c084365.jpg)
+
+
 
 
 
